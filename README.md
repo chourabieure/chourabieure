@@ -23,7 +23,7 @@
 - Penser produit : suivre une logique métier, comprendre les enjeux côté utilisateur
 - Produire des **design systems** qui simplifient la vie des devs ET des UI designers
 - Développer des outils internes qui **font gagner du temps** aux équipes produit
-- Du code qui fait plaisir à relire après 6 mois 🙂‍↕️
+- Du code qui fait plaisir à relire après 6 mois 🙃
 
 ---
 
