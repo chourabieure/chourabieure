@@ -17,29 +17,13 @@
 
 ---
 
-### 📈 Stats GitHub
+### 🧩 Ce que j’aime
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chourabieure&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chourabieure&theme=radical&hide_border=true" alt="Streak Stats">
-</p>
-
----
-
-### 🔥 Derniers commits
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 🧩 Ce que j’aime construire
-
-- Des interfaces **rapides**, typées, testées, maintenables
-- Des **design systems** qui simplifient la vie des devs ET des UI designers
-- Des outils internes qui **font gagner du temps** aux équipes produit
-- Du code qui fait plaisir à relire après 6 mois
+- Organiser le chaos : refondre une app, factoriser, découpler, documenter
+- Penser produit : suivre une logique métier, comprendre les enjeux côté utilisateur
+- Produire des **design systems** qui simplifient la vie des devs ET des UI designers
+- Développer des outils internes qui **font gagner du temps** aux équipes produit
+- Du code qui fait plaisir à relire après 6 mois 🙂‍↕️
 
 ---
 
